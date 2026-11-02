@@ -123,13 +123,3 @@ Every ticket worked in the lab. Incidents marked **simulated** were recreated on
 **Result:** Solution approved by the requester and the ticket closed.
 
 ---
-
-## Planned tickets
-
-- Locked out account (needs the client machine)
-- DNS issue: cannot reach websites by name
-- Group Policy not applying
-
-Why disable instead of delete: Disabling blocks sign in immediately while preserving the account history, ownership, and files for audits or review. Accounts are deleted only after a retention period.
-
-Result: Solution approved by the requester and the ticket closed.
